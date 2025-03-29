@@ -1,0 +1,22 @@
+html{
+    background-color:black ;
+    color:white;
+}
+img{
+    
+    border:5px solid white;
+    width:30%;
+   
+}
+.impic{
+ 
+margin-top: 5%;
+font-family: "Caveat", cursive;
+text-align: center;
+}
+p{
+   font-size: 30px;
+}
+h1{
+    font-size:40pt;  
+}
